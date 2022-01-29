@@ -1,1 +1,1 @@
-# customer-details-config-server
+# customer-config-server
